@@ -12,6 +12,7 @@ go to
 
 username being the user to spam
 
-then find this 
+then find this
 `<input type="hidden" name="user" value="2209646" />`
+
 the number in the value attribute is the userid, this value will be different for different users
